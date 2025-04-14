@@ -58,12 +58,14 @@ Here are some ideas to get you started:
 <details> 
   <summary> 📊 GitHub Profile Stats</summary>
   <br/>
-  <a href="https://github.com/pokeyaro">
-    <img align="center" style="width: 450px; height: auto;" src="https://stats.quine.sh/pokeyaro/github?theme=dark" />
-  </a>
-  <a href="https://github.com/pokeyaro">
-    <img align="center" style="width: 450px; height: auto;" src="https://stats.quine.sh/pokeyaro/languages-over-time?theme=dark" />
-  </a>
+  <div style="display: flex; gap: 20px;">
+    <a href="https://github.com/anuraghazra/github-readme-stats/" style="flex: 1;">
+      <img style="width: 50%; height: auto; margin-right: 200px;" src="https://github-readme-stats.vercel.app/api?username=pokeyaro&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats/" style="flex: 1;">
+      <img style="width: 40%; height: auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pokeyaro&layout=compact" />
+    </a>
+  </div>
   <br/>
 </details>
 
