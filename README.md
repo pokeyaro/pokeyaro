@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 > Job title: Software Engineer
 >
-> Preference: [`Rust`](https://www.rust-lang.org/) [`Go`](https://go.dev/) [`TypeScript`](https://www.typescriptlang.org/) [`React`](https://react.dev/)
+> Preference: [`NASM`](https://www.nasm.us/) [`Rust`](https://www.rust-lang.org/) [`Go`](https://go.dev/) [`TypeScript`](https://www.typescriptlang.org/) [`React`](https://react.dev/) 
 >
 > Tech Stack: 
 > <a href="https://www.linux.org/">
