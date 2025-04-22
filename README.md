@@ -54,6 +54,94 @@ Here are some ideas to get you started:
 >
 > Why I Code: To light a small corner of the world with something truly my own! 💖
 
+---
+
+## 🧾 The Bootscroll
+*A poem encoded at `0x7C00` — where machines awaken, and ideas persist.*
+
+```Python
+# Programming isn't just about syntax —
+# it's about encoding ideas
+# in ways machines love and humans fear.
+#
+# 编程的本质不仅是语法 —
+# 是将想法编码成机器喜爱，
+# 而人类敬畏的形式。
+
+import subprocess
+
+image = "ROM.img"
+
+runes = [
+    'a', 'b', 'c', 'd', 'e', 'f', 'g',
+    'h', 'i', 'j', 'k', 'l', 'm', 'n',
+    'o', 'p', 'q', 'r', 's', 't', 'u',
+    'v', 'w', 'x', 'y', 'z', ' ', '.',
+]
+
+bit_mantra = [
+    0b0001_1001, 0b0000_0100, 0b0001_0001, 0b0000_1110,
+    0b0001_1010, 0b0000_1000, 0b0001_0010, 0b0001_1010,
+    0b0000_1101, 0b0000_1110, 0b0001_0011, 0b0001_1010,
+    0b0000_1101, 0b0000_1110, 0b0001_0011, 0b0000_0111,
+    0b0000_1000, 0b0000_1101, 0b0000_0110, 0b0001_1011
+]
+
+boot_poem = (lambda λ: '"' + λ + '"')(
+    "".join(
+        runes[idx].upper() if i == 0 else runes[idx] if isinstance(idx, int) else idx
+        for i, idx in enumerate(bit_mantra)
+    )
+)
+
+# [org 0x7C00]
+bios_scroll = bytes(
+    # mov ah, 0x00
+    # mov al, 0x03
+    # int 0x10
+    [
+        0xB8, 0x03, 0x00,
+        0xCD, 0x10,
+    ] +
+    # mov ah, 0x0E
+    # mov al, <char>
+    # int 0x10
+    [
+        0xB4, 0x0E,
+        *sum([[0xB0, ord(db), 0xCD, 0x10] for db in boot_poem], []),
+    ] +
+    # hlt
+    [
+        0xF4,
+    ] +
+    # times 510-($-$$) db 0
+    [
+        0x66  # please print 666 on the BIOS wall. 请把 666 飘在公屏上 🔥
+    ] * (510 - (3 + 2 + 2 + 4 * len(boot_poem) + 1)) +
+    # dw 0xAA55
+    [
+        0x55, 0xAA
+    ]
+)
+
+def zero():
+    """ 🕯️ Begin invocation sequence """
+    print(f'BIOS says: {boot_poem}')
+    with open(image, "wb") as f:
+        f.write(bios_scroll)
+    subprocess.run(
+        ["qemu-system-i386", "-drive", f"file={image},format=raw,if=floppy", "-serial", "stdio"],
+        stdout=subprocess.DEVNULL,
+        stderr=subprocess.DEVNULL
+    )
+
+if __name__ == '__main__':
+    zero()
+
+```
+
+---
+
 ## 📊 GitHub Stats
 
 <div style="display: flex; gap: 20px;">
