@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there  I’m [@Ρσkəγα](https://github.com/pokeyaro) 👋
+## Hi there, I’m [@Ρσkəγα](https://github.com/pokeyaro) 👋
 
-> Job title: Software Engineer
+> Role: Software Engineer
 >
-> Preference: [`NASM`](https://www.nasm.us/) [`Rust`](https://www.rust-lang.org/) [`Go`](https://go.dev/) [`TypeScript`](https://www.typescriptlang.org/) [`React`](https://react.dev/) 
+> Fascinated by: [`NASM`](https://www.nasm.us/) [`Rust`](https://www.rust-lang.org/) [`Go`](https://go.dev/) [`TypeScript`](https://www.typescriptlang.org/) [`React`](https://react.dev/) [`Blender`](https://www.blender.org/) 
+> *(yep, from bare metal to beautiful UIs — I enjoy every layer!)*
 >
 > Tech Stack: 
 > <a href="https://www.linux.org/">
@@ -47,33 +48,28 @@ Here are some ideas to get you started:
 >   <img align="center" width="18" height="18" alt="tailwind" src="https://tailwindcss.com/favicons/favicon-16x16.png" />
 > </a>
 >
-> Hobbies: Enthusiastic about exploring new technologies, passionate about music and fitness.
+> Who I Am: Exploring new tech, building things from scratch, lifting heavy things, vibing to music, and thinking deeply.
 > 
-> Motto: Work-life balance is essential, prioritizing continuous learning and personal growth.
+> What I Value: Balance life, love code, and never stop growing. 🌱
 >
-> This is who I am — an ordinary individual aspiring to make a meaningful impact on the world! 💖
+> Why I Code: To light a small corner of the world with something truly my own! 💖
 
-## Status
+## 📊 GitHub Stats
 
-<details> 
-  <summary> 📊 GitHub Profile Stats</summary>
-  <br/>
-  <div style="display: flex; gap: 20px;">
-    <a href="https://github.com/anuraghazra/github-readme-stats/" style="flex: 1;">
-      <img style="width: 50%; height: auto; margin-right: 200px;" src="https://github-readme-stats.vercel.app/api?username=pokeyaro&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/" style="flex: 1;">
-      <img style="width: 40%; height: auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pokeyaro&layout=compact" />
-    </a>
-  </div>
-  <br/>
-</details>
+<div style="display: flex; gap: 20px;">
+  <a href="https://github.com/anuraghazra/github-readme-stats/" style="flex: 1;">
+    <img style="width: 50%; height: auto; margin-right: 200px;" src="https://github-readme-stats.vercel.app/api?username=pokeyaro&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats/" style="flex: 1;">
+    <img style="width: 40%; height: auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pokeyaro&layout=compact" />
+  </a>
+</div>
 
-## Visits
+## 👀 Visitors
 
 ![pic](http://profile-counter.glitch.me/pokeyaro/count.svg)
 
-Welcome to my GitHub profile. Thank you for stopping by!
+Thanks for dropping in! Feel free to poke around. 🧸
 
 
 ## 📞 Contact me
