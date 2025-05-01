@@ -49,6 +49,7 @@ Here are some ideas to get you started:
 > </a>
 >
 > Who I Am: Exploring new tech, building things from scratch, lifting heavy things, vibing to music, and thinking deeply.
+> An INFP with a T-wing sharp enough to disassemble Plato — reverse-engineering emotion into opcodes, compiling the proof in Rust. 🦀
 > 
 > What I Value: Balance life, love code, and never stop growing. 🌱
 >
