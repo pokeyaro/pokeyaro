@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 > Role: Software Engineer
 >
-> Fascinated by: [`NASM`](https://www.nasm.us/) [`Rust`](https://www.rust-lang.org/) [`Go`](https://go.dev/) [`TypeScript`](https://www.typescriptlang.org/) [`React`](https://react.dev/) [`Blender`](https://www.blender.org/) 
+> Fascinated by: [`NASM`](https://www.nasm.us/) [`Zig`](https://ziglang.org/) [`Rust`](https://www.rust-lang.org/) [`Go`](https://go.dev/) [`TypeScript`](https://www.typescriptlang.org/) [`React`](https://react.dev/) [`Blender`](https://www.blender.org/) 
 > *(yep, from bare metal to beautiful UIs — I enjoy every layer!)*
 >
 > Tech Stack: 
@@ -156,7 +156,7 @@ if __name__ == '__main__':
 
 ## 👀 Visitors
 
-![pic](http://profile-counter.glitch.me/pokeyaro/count.svg)
+![pic](https://komarev.com/ghpvc/?username=pokeyaro&label=PROFILE+VIEWS&base=10000&abbreviated=true)
 
 Thanks for dropping in! Feel free to poke around. 🧸
 
