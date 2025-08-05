@@ -156,8 +156,6 @@ if __name__ == '__main__':
 
 ## 👀 Visitors
 
-![pic](https://komarev.com/ghpvc/?username=pokeyaro&label=PROFILE+VIEWS&base=10000&abbreviated=true)
-
 Thanks for dropping in! Feel free to poke around. 🧸
 
 
