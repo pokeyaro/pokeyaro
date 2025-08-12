@@ -150,11 +150,13 @@ if __name__ == '__main__':
     <img style="width: 50%; height: auto; margin-right: 200px;" src="https://github-readme-stats.vercel.app/api?username=pokeyaro&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats/" style="flex: 1;">
-    <img style="width: 40%; height: auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pokeyaro&layout=compact" />
+    <img style="width: 40%; height: auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=pokeyaro" />
   </a>
 </div>
 
 ## 👀 Visitors
+
+![](https://komarev.com/ghpvc/?username=pokeyaro&color=blue&style=flat-square&label=PROFILE+VIEWS&base=10000)
 
 Thanks for dropping in! Feel free to poke around. 🧸
 
