@@ -143,6 +143,8 @@ if __name__ == '__main__':
 
 ---
 
+<!--
+
 ## 📊 GitHub Stats
 
 <div style="display: flex; gap: 20px;">
@@ -153,6 +155,8 @@ if __name__ == '__main__':
     <img style="width: 40%; height: auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pokeyaro&layout=compact" />
   </a>
 </div>
+
+-->
 
 ## 👀 Visitors
 
