@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 >   <img align="center" width="18" height="18" alt="k8s" src="https://kubernetes.io/icons/favicon-32.png" /> 
 > </a>
 > <a href="https://about.gitlab.com/">
->   <img align="center" width="18" height="18" alt="git" src="https://about.gitlab.com/nuxt-images/ico/favicon.ico" />
+>   <img align="center" width="18" height="18" alt="git" src="https://about.gitlab.com/images/ico/favicon.ico" />
 > </a>
 > <a href="https://vuejs.org/">
 >   <img align="center" width="18" height="18" alt="vue" src="https://vuejs.org/logo.svg" />
